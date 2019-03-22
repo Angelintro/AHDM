@@ -1,0 +1,45 @@
+
+body {
+  background-color: lightblue;
+}
+ul{
+  list-style-type: none;
+  overflow: hidden;
+  width: 100%;
+}
+li{
+  li:nth-child(1){display:block}
+}
+
+.row1{
+
+  margin: 0 auto;
+  max-width: 930px;
+  max-height: 60px;
+  width: 100%;
+}
+
+#usuario{
+    margin-top: 0px;
+    margin-left: 27px;
+      width:300px;
+      border-radius: 2px;
+        padding-top: 2px;
+}
+#descripcion{
+    margin-top: 5px;
+      width:300px;
+      border-radius: 2px;
+        padding-top: 2px;
+}
+#imagen{
+    margin-top: 5px;
+    margin-left: 30px;
+      width:300px;
+      border-radius: 2px;
+        padding-top: 2px;
+}
+#guardar{
+    margin-top: 5px;
+  margin-left: 325px;
+}
